@@ -1,4 +1,4 @@
-This repository contains the code used to generate the data shown in the manuscript "Spatial analysis identifies PD-L1 expressing DC niches are predictors of immunotherapy outcomes in head and neck squamous cell cancer".
+This repository contains the code used to generate the data shown in the manuscript "Spatial analysis identifies DC niches as predictors of immunotherapy outcomes in head and neck squamous cell cancer".
 
 The pipeline is split in four parts:
 1. Illumination correction: Correcting raw images for uneven illumination
